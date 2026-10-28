@@ -1,0 +1,13 @@
+{
+  "name": "local",
+  "owner": {
+    "name": "dubte"
+  },
+  "plugins": [
+    {
+      "name": "keep-warm",
+      "source": "./plugins/keep-warm",
+      "description": "Pings the session before the 1-hour prompt cache expires."
+    }
+  ]
+}

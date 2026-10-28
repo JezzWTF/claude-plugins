@@ -1,0 +1,5 @@
+{
+  "name": "keep-warm",
+  "version": "0.1.0",
+  "description": "Pings the session just before the 1-hour prompt cache expires so long chats stay cached."
+}
